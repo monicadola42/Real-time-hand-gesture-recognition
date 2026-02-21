@@ -29,6 +29,3 @@ Run the program:
 
 python main.py
 
-## Author
-
-Monica Dola
